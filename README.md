@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome！👋 
+### 👋 Welcome！
 + **My Blog [https://zhangkong.cloud/](https://zhangkong.cloud//)**
 
 ### 🌱 I’m currently learning ...
