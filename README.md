@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ### 😄 I’m currently learning ...
 
-### ⚡ How to reach me: zhangkong828@gmail.com
+### 💬 Email: zhangkong828@gmail.com
 
-### 💬 My Blog: [https://zhangkong.cloud/](https://zhangkong.cloud/)
+### ⚡ Blog: [https://zhangkong.cloud](https://zhangkong.cloud)
