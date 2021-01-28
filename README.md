@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 ### 👋 Welcome！
 
-### 😄 I’m currently learning ...
-
-### 💬 Email: zhangkong828@gmail.com
+### I’m currently learning ...
 
 ### ⚡ Blog: [https://zhangkong.cloud](https://zhangkong.cloud)
